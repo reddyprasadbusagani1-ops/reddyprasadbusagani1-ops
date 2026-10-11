@@ -29,6 +29,11 @@ To develop practical AI/ML solutions and continuously improve my programming and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reddyprasadbusagani1-ops&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyprasadbusagani1-ops&layout=compact&theme=tokyonight)
 
 ---
 ⭐ Thanks for visiting my profile!
