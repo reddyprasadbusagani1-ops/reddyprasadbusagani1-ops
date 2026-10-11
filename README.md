@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Reddy Prasad 👋
 
-<!--
-**reddyprasadbusagani1-ops/reddyprasadbusagani1-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+💻 Interested in Python, Machine Learning, Artificial Intelligence, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- 🐍 [Python Lab](https://github.com/reddyprasadbusagani1-ops/python-lab)
+- 🏆 Team Leader of CodeNova — SIH 2026, selected at the institutional level
+- ❤️ Research interest: Heart Disease Prediction and Explainable Personalized Decision Support
+
+## 🛠️ Skills & Learning
+- Python
+- Git & GitHub
+- Artificial Intelligence & Machine Learning
+- Data Science
+
+## 🎯 Goals
+To develop practical AI/ML solutions and continuously improve my programming and problem-solving skills.
+
+## 📫 Connect With Me
+- GitHub: [@reddyprasadbusagani1-ops](https://github.com/reddyprasadbusagani1-ops)
+- Email: reddyprasadbusagani1@gmail.com
+
+---
+⭐ Thanks for visiting my profile!
