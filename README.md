@@ -35,5 +35,9 @@ To develop practical AI/ML solutions and continuously improve my programming and
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reddyprasadbusagani1-ops&layout=compact&theme=tokyonight)
 
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddyprasadbusagani1-ops&theme=tokyo-night)
+
 ---
 ⭐ Thanks for visiting my profile!
