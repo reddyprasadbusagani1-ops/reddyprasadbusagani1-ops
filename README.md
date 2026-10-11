@@ -19,8 +19,11 @@
 To develop practical AI/ML solutions and continuously improve my programming and problem-solving skills.
 
 ## 📫 Connect With Me
-- GitHub: [@reddyprasadbusagani1-ops](https://github.com/reddyprasadbusagani1-ops)
-- Email: reddyprasadbusagani1@gmail.com
+
+- 💻 GitHub: [@reddyprasadbusagani1-ops](https://github.com/reddyprasadbusagani1-ops)
+- 📧 Email: [Contact Me](mailto:reddyprasadbusagani1@gmail.com)
+- 💼 LinkedIn: [Reddy Prasad](https://www.linkedin.com/in/reddy-prasad-b-a02a703bb/)
+- 📸 Instagram: [@krishna_busagani](https://www.instagram.com/krishna_busagani/)
 
   ## 🧰 Languages & Tools
 
