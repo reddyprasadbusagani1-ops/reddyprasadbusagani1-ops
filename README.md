@@ -38,6 +38,8 @@ To develop practical AI/ML solutions and continuously improve my programming and
 ## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=reddyprasadbusagani1-ops&theme=tokyo-night)
+## 👀 Profile Visitors
 
+![Profile Views](https://komarev.com/ghpvc/?username=reddyprasadbusagani1-ops&color=blueviolet&style=flat-square)
 ---
 ⭐ Thanks for visiting my profile!
