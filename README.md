@@ -17,6 +17,12 @@
 
 ## 🚀 Projects & Lab Work
 
+- 🧠 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab)
+- ☕ [Java OOP Lab](https://github.com/reddyprasadbusagani1-ops/Java-OOP-Lab)
+- 🤖 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab)
+- 📊 [Introduction to Data Science Lab](https://github.com/reddyprasadbusagani1-ops/Data-Science-Using-Python-Lab)
+- 🐍 [Python Lab](https://github.com/reddyprasadbusagani1-ops/python-lab)
+
 ### 📚 Academic Lab Repositories
 
 - 🧠 [Advanced Data Structures and Algorithm Analysis (ADSA) Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1)
