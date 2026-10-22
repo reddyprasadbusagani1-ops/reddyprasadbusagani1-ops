@@ -1,64 +1,106 @@
+
 # Hi there, I'm Reddy Prasad 👋
 
-🎓 B.Tech Student in Artificial Intelligence & Data Science
+🎓 B.Tech Student in Artificial Intelligence & Data Science  
+💻 Aspiring Software Engineer | AI/ML Enthusiast | Web Development Learner
 
-💻 Interested in Python, Artificial Intelligence, Machine Learning, Data Science, and Software Development.
-
-🚀 I enjoy building practical projects, solving programming problems, and continuously improving my technical skills.
+I enjoy building practical projects, solving programming problems, exploring emerging technologies, and continuously improving my technical skills.
 
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.
-- 🧠 Learning AI, Machine Learning, Data Structures, and Algorithms.
-- 🐍 Practicing Python and Java programming through academic lab projects.
-- 🏆 Team Leader of CodeNova — SIH 2026 project selected at the institutional level.
-- ❤️ Research Interest: Heart Disease Prediction and Explainable Personalized Decision Support.
-- 🌱 Always learning, building, and exploring new technologies.
+- 🧠 Learning Artificial Intelligence, Machine Learning, Data Science, and Algorithms.
+- 💻 Practicing Python, Java, and Full Stack Web Development.
+- 🏆 Team Leader of **CodeNova** — selected at the institutional level for SIH 2026.
+- ❤️ Research Interest: **Heart Disease Prediction and Explainable Personalized Decision Support**.
+- 🌱 Building academic lab projects and improving my software development skills.
+- 🤝 Interested in collaboration, internships, and real-world technology projects.
 
-## 🚀 Projects & Lab Work
+## 🚀 Projects & Academic Lab Work
 
-- 🧠 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab)
-- ☕ [Java OOP Lab](https://github.com/reddyprasadbusagani1-ops/Java-OOP-Lab)
-- 🤖 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab)
-- 📊 [Introduction to Data Science Lab](https://github.com/reddyprasadbusagani1-ops/Data-Science-Using-Python-Lab)
-- 🐍 [Python Lab](https://github.com/reddyprasadbusagani1-ops/python-lab)
+### 🧪 Programming & Computer Science Labs
 
-### 📚 Academic Lab Repositories
-
-- 🧠 [Advanced Data Structures and Algorithm Analysis (ADSA) Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1)
+- 🧠 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1)
 - ☕ [Object-Oriented Programming Through Java Lab](https://github.com/reddyprasadbusagani1-ops/Java-Lab)
+- 🐍 [Python Programming Lab](https://github.com/reddyprasadbusagani1-ops/python-lab)
 - 🤖 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab)
-- 📊 [Introduction to Data Science Lab](https://github.com/reddyprasadbusagani1-ops/Introduction-to-Data-Science-Lab)
-- 🐍 [Python Lab](https://github.com/reddyprasadbusagani1-ops/python-lab)
+- 📊 [Introduction to Data Science Using Python Lab](https://github.com/reddyprasadbusagani1-ops/Introduction-to-Data-Science-Lab)
 
-### 🏆 Achievement
+### 🌐 Web Development
 
-- Team Leader of CodeNova, selected at the institutional level for SIH 2026.
+- 🎨 [Manjunath Art Studio Website](https://exact-screen-show-52.lovable.app) — an art portfolio website featuring an interactive gallery, category filters, WhatsApp enquiry options, and English/Telugu support.
 
-### ❤️ Research Interest
+- 💻 **Full Stack Development-I Lab** — HTML, CSS, JavaScript, and front-end development practice.
+- ⚙️ **Full Stack Development-II Lab** — React, Node.js, Express.js, MySQL, and Git/GitHub practicals.
 
-Heart Disease Prediction and Explainable Personalized Decision Support — exploring machine learning approaches and understandable, personalized decision support.
+*Add the GitHub repository links for the Full Stack labs after publishing them.*
 
-## 🛠️ Skills & Learning
+### 📚 Data Warehousing & Data Mining
 
-- **Programming:** Python, Java (learning and practice)
-- **Core Concepts:** Data Structures and Algorithms, Object-Oriented Programming
-- **Areas of Interest:** Artificial Intelligence, Machine Learning, Data Science
-- **Tools:** Git, GitHub, Visual Studio Code
+- 📈 **Data Warehousing and Data Mining Lab** — practical exercises involving data preprocessing, association rules, classification, clustering, and dimensionality reduction using WEKA.
+
+*Add the repository link after publishing the lab.*
+
+## 🏆 Achievement
+
+- 🥇 **CodeNova — SIH 2026:** Team Leader; project selected at the institutional level.
+
+## ❤️ Research Interest
+
+**Heart Disease Prediction and Explainable Personalized Decision Support**
+
+Exploring machine learning approaches for heart disease prediction and understandable, personalized decision support, with an interest in explainability and responsible AI.
+
+## 🛠️ Skills & Technologies
+
+### Programming Languages
+- Python
+- Java
+- SQL
+- JavaScript
+
+### Web Development
+- HTML5
+- CSS3
+- React.js
+- TypeScript
+- Node.js
+- Express.js
+
+### Computer Science
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Fundamentals
+- Machine Learning Fundamentals
+
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- WEKA
 
 ## 🧰 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data_Science-2E8B57?style=for-the-badge)
 
 ## 🎯 Goals
 
-To develop practical AI/ML solutions, strengthen my programming and problem-solving skills, collaborate with other developers, and build technology that addresses real-world challenges.
+- Strengthen programming and problem-solving skills.
+- Build practical software and AI/ML projects.
+- Develop full-stack web applications.
+- Contribute to collaborative projects and open-source development.
+- Prepare for software engineering and data science internships.
 
 ## 📊 GitHub Statistics
 
@@ -83,4 +125,4 @@ To develop practical AI/ML solutions, strengthen my programming and problem-solv
 
 ---
 
-⭐ Thanks for visiting my profile! If you find my projects interesting, feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories, share feedback, and connect with me.
