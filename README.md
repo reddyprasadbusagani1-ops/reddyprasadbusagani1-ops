@@ -16,7 +16,33 @@ I enjoy building practical projects, solving programming problems, exploring eme
 - 🌱 Building academic lab projects and improving my software development skills.
 - 🤝 Interested in collaboration, internships, and real-world technology projects.
 
-## 🚀 Projects & Academic Lab Work
+## 🚀 Projects & Academic Lab Repositories
+
+### 🌐 Full Stack Development
+
+- 🌐 [Full Stack Development-I Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-1) — HTML, CSS, JavaScript, and front-end development practicals.
+- ⚛️ [Full Stack Development-II Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-II-Lab) — React, Node.js, Express.js, MySQL, and Git/GitHub practicals.
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- 🧠 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab) — Artificial intelligence algorithms and practical implementations.
+- 📈 [Machine Learning Lab](https://github.com/reddyprasadbusagani1-ops/Machine-Learning-Lab) — Machine learning algorithms and hands-on experiments.
+- 📊 [Data Science Using Python Lab](https://github.com/reddyprasadbusagani1-ops/Data-Science-Using-Python-Lab) — Python-based data analysis and data science practicals.
+
+### 💻 Programming & Algorithms
+
+- 🐍 [Python Programming Lab](https://github.com/reddyprasadbusagani1-ops/python-lab) — Python programs and academic exercises.
+- ☕ [Java OOP Lab](https://github.com/reddyprasadbusagani1-ops/Java-OOP-Lab) — Object-oriented programming concepts and Java practicals.
+- 🧩 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1) — Data structures, algorithm design, and implementation exercises.
+
+### 🗄️ Data Warehousing & Data Mining
+
+- 📉 [Data Warehousing and Data Mining Lab](https://github.com/reddyprasadbusagani1-ops/Data-Warehousing-and-Data-Mining-Lab) — Data preprocessing, association rule mining, classification, clustering, and WEKA-based experiments.
+
+### 🎨 Web Development Project
+
+- 🖼️ [Manjunath Art Studio Website](https://exact-screen-show-52.lovable.app) — An interactive art portfolio featuring gallery categories, image filters, WhatsApp enquiry options, and English/Telugu support.
+
 
 ### 🧪 Programming & Computer Science Labs
 
