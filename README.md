@@ -1,4 +1,3 @@
-
 # Hi there, I'm Reddy Prasad 👋
 
 🎓 B.Tech Student in Artificial Intelligence & Data Science  
@@ -8,102 +7,55 @@ I enjoy building practical projects, solving programming problems, exploring eme
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science.
-- 🧠 Learning Artificial Intelligence, Machine Learning, Data Science, and Algorithms.
-- 💻 Practicing Python, Java, and Full Stack Web Development.
-- 🏆 Team Leader of **CodeNova** — selected at the institutional level for SIH 2026.
-- ❤️ Research Interest: **Heart Disease Prediction and Explainable Personalized Decision Support**.
-- 🌱 Building academic lab projects and improving my software development skills.
-- 🤝 Interested in collaboration, internships, and real-world technology projects.
-
-## 🚀 Projects & Academic Lab Repositories
-
-### 🌐 Full Stack Development
-
-- 🌐 [Full Stack Development-I Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-1) — HTML, CSS, JavaScript, and front-end development practicals.
-- ⚛️ [Full Stack Development-II Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-II-Lab) — React, Node.js, Express.js, MySQL, and Git/GitHub practicals.
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-- 🧠 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab) — Artificial intelligence algorithms and practical implementations.
-- 📈 [Machine Learning Lab](https://github.com/reddyprasadbusagani1-ops/Machine-Learning-Lab) — Machine learning algorithms and hands-on experiments.
-- 📊 [Data Science Using Python Lab](https://github.com/reddyprasadbusagani1-ops/Data-Science-Using-Python-Lab) — Python-based data analysis and data science practicals.
-
-### 💻 Programming & Algorithms
-
-- 🐍 [Python Programming Lab](https://github.com/reddyprasadbusagani1-ops/python-lab) — Python programs and academic exercises.
-- ☕ [Java OOP Lab](https://github.com/reddyprasadbusagani1-ops/Java-OOP-Lab) — Object-oriented programming concepts and Java practicals.
-- 🧩 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1) — Data structures, algorithm design, and implementation exercises.
-
-### 🗄️ Data Warehousing & Data Mining
-
-- 📉 [Data Warehousing and Data Mining Lab](https://github.com/reddyprasadbusagani1-ops/Data-Warehousing-and-Data-Mining-Lab) — Data preprocessing, association rule mining, classification, clustering, and WEKA-based experiments.
-
-### 🎨 Web Development Project
-
-- 🖼️ [Manjunath Art Studio Website](https://exact-screen-show-52.lovable.app) — An interactive art portfolio featuring gallery categories, image filters, WhatsApp enquiry options, and English/Telugu support.
-
-
-### 🧪 Programming & Computer Science Labs
-
-- 🧠 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1)
-- ☕ [Object-Oriented Programming Through Java Lab](https://github.com/reddyprasadbusagani1-ops/Java-Lab)
-- 🐍 [Python Programming Lab](https://github.com/reddyprasadbusagani1-ops/python-lab)
-- 🤖 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab)
-- 📊 [Introduction to Data Science Using Python Lab](https://github.com/reddyprasadbusagani1-ops/Introduction-to-Data-Science-Lab)
-
-### 🌐 Web Development
-
-- 🎨 [Manjunath Art Studio Website](https://exact-screen-show-52.lovable.app) — an art portfolio website featuring an interactive gallery, category filters, WhatsApp enquiry options, and English/Telugu support.
-
-- 💻 **Full Stack Development-I Lab** — HTML, CSS, JavaScript, and front-end development practice.
-- ⚙️ **Full Stack Development-II Lab** — React, Node.js, Express.js, MySQL, and Git/GitHub practicals.
-
-*Add the GitHub repository links for the Full Stack labs after publishing them.*
-
-### 📚 Data Warehousing & Data Mining
-
-- 📈 **Data Warehousing and Data Mining Lab** — practical exercises involving data preprocessing, association rules, classification, clustering, and dimensionality reduction using WEKA.
-
-*Add the repository link after publishing the lab.*
+- 🎓 Pursuing B.Tech in Artificial Intelligence & Data Science
+- 🧠 Learning Artificial Intelligence, Machine Learning, Data Science, and Algorithms
+- 💻 Practicing Python, Java, and Full Stack Web Development
+- 🏆 Team Leader of **CodeNova**, selected at the institutional level for SIH 2026
+- ❤️ Research Interest: **Heart Disease Prediction and Explainable Personalized Decision Support**
+- 🤝 Open to collaboration, internships, and real-world technology projects
 
 ## 🏆 Achievement
 
-- 🥇 **CodeNova — SIH 2026:** Team Leader; project selected at the institutional level.
+- 🥇 **CodeNova, SIH 2026:** Team Leader; project selected at the institutional level.
+
+## 🚀 Projects & Academic Lab Repositories
+
+### 🌐 Web Development
+
+- 🎨 [Manjunath Art Studio Website](https://exact-screen-show-52.lovable.app): an interactive art portfolio with gallery categories, image filters, WhatsApp enquiry options, and English/Telugu support.
+- 🌐 [Full Stack Development-I Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-1): HTML, CSS, JavaScript, and front-end development practicals.
+- ⚛️ [Full Stack Development-II Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-II-Lab): React, Node.js, Express.js, MySQL, and Git/GitHub practicals.
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- 🧠 [Artificial Intelligence Lab](https://github.com/reddyprasadbusagani1-ops/Artificial-Intelligence-Lab): AI algorithms and practical implementations.
+- 📈 [Machine Learning Lab](https://github.com/reddyprasadbusagani1-ops/Machine-Learning-Lab): machine learning algorithms and hands-on experiments.
+- 📊 [Data Science Using Python Lab](https://github.com/reddyprasadbusagani1-ops/Data-Science-Using-Python-Lab): Python-based data analysis and data science practicals.
+
+### 💻 Programming & Algorithms
+
+- 🐍 [Python Programming Lab](https://github.com/reddyprasadbusagani1-ops/python-lab): Python programs and academic exercises.
+- ☕ [Java OOP Lab](https://github.com/reddyprasadbusagani1-ops/Java-OOP-Lab): object-oriented programming concepts and Java practicals.
+- 🧩 [Advanced Data Structures and Algorithm Analysis Lab](https://github.com/reddyprasadbusagani1-ops/Advanced-Data-Structures-Algorithm-Analysis-Lab1): data structures, algorithm design, and implementation exercises.
+
+### 🗄️ Data Warehousing & Data Mining
+
+- 📉 [Data Warehousing and Data Mining Lab](https://github.com/reddyprasadbusagani1-ops/Data-Warehousing-and-Data-Mining-Lab): data preprocessing, association rules, classification, clustering, dimensionality reduction, and WEKA-based experiments.
 
 ## ❤️ Research Interest
 
 **Heart Disease Prediction and Explainable Personalized Decision Support**
 
-Exploring machine learning approaches for heart disease prediction and understandable, personalized decision support, with an interest in explainability and responsible AI.
+Exploring machine learning approaches for heart disease prediction and understandable, personalized decision support, with a focus on explainability and responsible AI.
 
 ## 🛠️ Skills & Technologies
 
-### Programming Languages
-- Python
-- Java
-- SQL
-- JavaScript
-
-### Web Development
-- HTML5
-- CSS3
-- React.js
-- TypeScript
-- Node.js
-- Express.js
-
-### Computer Science
-- Data Structures and Algorithms
-- Object-Oriented Programming
-- Database Fundamentals
-- Machine Learning Fundamentals
-
-### Tools
-- Git
-- GitHub
-- Visual Studio Code
-- WEKA
+| Category | Skills |
+|---|---|
+| **Languages** | Python, Java, SQL, JavaScript, TypeScript |
+| **Web Development** | HTML5, CSS3, React.js, Node.js, Express.js |
+| **Computer Science** | Data Structures & Algorithms, OOP, Database Fundamentals, Machine Learning Fundamentals |
+| **Tools** | Git, GitHub, Visual Studio Code, WEKA |
 
 ## 🧰 Languages & Tools
 
@@ -122,11 +74,11 @@ Exploring machine learning approaches for heart disease prediction and understan
 
 ## 🎯 Goals
 
-- Strengthen programming and problem-solving skills.
-- Build practical software and AI/ML projects.
-- Develop full-stack web applications.
-- Contribute to collaborative projects and open-source development.
-- Prepare for software engineering and data science internships.
+- Strengthen programming and problem-solving skills
+- Build practical software and AI/ML projects
+- Develop full-stack web applications
+- Contribute to collaborative and open-source projects
+- Prepare for software engineering and data science internships
 
 ## 📊 GitHub Statistics
 
@@ -144,8 +96,6 @@ Exploring machine learning approaches for heart disease prediction and understan
 - 📧 Email: [reddyprasadbusagani1@gmail.com](mailto:reddyprasadbusagani1@gmail.com)
 - 💼 LinkedIn: [Reddy Prasad](https://www.linkedin.com/in/reddy-prasad-b-a02a703bb/)
 - 📸 Instagram: [@krishna_busagani](https://www.instagram.com/krishna_busagani/)
-
-## 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=reddyprasadbusagani1-ops&color=blueviolet&style=flat-square)
 
