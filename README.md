@@ -23,6 +23,7 @@ I enjoy building practical projects, solving programming problems, exploring eme
 ### 🌐 Web Development
 
 - 🎨 [Manjunath Art Studio Website](https://exact-screen-show-52.lovable.app): an interactive art portfolio with gallery categories, image filters, WhatsApp enquiry options, and English/Telugu support.
+- A bilingual artist portfolio website showcasing traditional Indian artwork, with category filters, custom artwork enquiries, and WhatsApp integration.
 - 🌐 [Full Stack Development-I Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-1): HTML, CSS, JavaScript, and front-end development practicals.
 - ⚛️ [Full Stack Development-II Lab](https://github.com/reddyprasadbusagani1-ops/Full-Stack-Development-II-Lab): React, Node.js, Express.js, MySQL, and Git/GitHub practicals.
 
@@ -71,7 +72,7 @@ Exploring machine learning approaches for heart disease prediction and understan
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+lovable artist-portfolio web-development indian-art
 ## 🎯 Goals
 
 - Strengthen programming and problem-solving skills
